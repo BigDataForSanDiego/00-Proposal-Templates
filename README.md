@@ -15,3 +15,6 @@
 3. From 4:30-5:30 p.m. we will ask all teams to make a 5-minute presentation
 4. Select a speaker for your group and be ready to make a 5-minute presentation:
   * stating your team name, the question you are seeking to answer, the hackathon idea and the dataset(s) you might use.
+
+## Free Amazon EC2 Student Accounts: For new students who would like to request credits for the hackathon
+https://www.awseducate.com/Application?apptype=student&promoCode=sdsu-hackathon-2017
