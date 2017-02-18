@@ -18,3 +18,4 @@
 
 ## Free Amazon EC2 Student Accounts: For new students who would like to request credits for the hackathon
 https://www.awseducate.com/Application?apptype=student&promoCode=sdsu-hackathon-2017
+...
