@@ -5,7 +5,9 @@
 #### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
-
+`
+YOUR TWO SENTENCES HERE
+`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
 
