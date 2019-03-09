@@ -31,6 +31,7 @@
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 
 
+
 ###### A question your team is answering (check a box OR provide a question your group created)
 
 **Smart City**
