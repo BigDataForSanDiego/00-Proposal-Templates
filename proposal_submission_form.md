@@ -9,6 +9,12 @@ Dataset(s) your team might use for the project (Provide name and URL):
 Team Coordinator GitHub Username:
 Team Coordinator email for Github account:
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
 
 | num | Name | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 |---|---|---|---|---|---|---|
