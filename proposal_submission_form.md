@@ -5,9 +5,12 @@ Team Number:
 Team Name:
 
 Your team’s hackathon idea in TWO sentences:
+
+
 Dataset(s) your team might use for the project (Provide name and URL):
 
 Team Coordinator GitHub Username:
+
 Team Coordinator email for Github account:
 
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
