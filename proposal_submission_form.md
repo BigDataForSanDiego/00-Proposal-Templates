@@ -54,4 +54,4 @@ A question your team is answering (check a box OR provide a question your group 
 - [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
 - [ ] Your question:
 
-
+![python](https://image.flaticon.com/icons/svg/2/2181.svg "Python Language logotype free icon")
