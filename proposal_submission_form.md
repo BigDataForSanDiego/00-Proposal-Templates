@@ -5,15 +5,16 @@
 #### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
-`
-YOUR TWO SENTENCES HERE
-`
+#### `YOUR TWO SENTENCES HERE`
+#### `YOUR TWO SENTENCES HERE`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
+#### `YOUR DATASETS HERE`
+#### `YOUR DATASETS  HERE`
 
-#### Team Coordinator GitHub Username:
+#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Coordinator email for Github account:
+#### Team Coordinator email for Github account: `YOUR TEAM COORDINATOR HERE`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
@@ -30,7 +31,7 @@ YOUR TWO SENTENCES HERE
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 
 
-A question your team is answering (check a box OR provide a question your group created)
+###### A question your team is answering (check a box OR provide a question your group created)
 
 **Smart City**
 - [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
