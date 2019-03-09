@@ -1,5 +1,3 @@
-<img src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg" height="50%" width="100%">
-
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
 #### Team Number:
@@ -57,4 +55,4 @@ A question your team is answering (check a box OR provide a question your group 
 - [ ] Your question:
 
 
-
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
