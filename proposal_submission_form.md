@@ -11,7 +11,8 @@ Team Coordinator email for Github account:
 
 Team Members
 num | Name | Active SDSU student? | Female active SDSU student | Active SDSU veteran | 14th grade (college 2nd year) or younger
--- | ---------------|--
+--- | ---- | -------------------- | -------------------------- | ------------------- | ----------------------------------------
+000 | aa | [x] | [x] | [x] | [x]
 
 A question your team is answering (check a box OR provide a question your group created)
 
