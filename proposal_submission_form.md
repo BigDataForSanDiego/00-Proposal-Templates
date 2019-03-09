@@ -5,7 +5,7 @@
 #### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
-##### ``YOUR TWO SENTENCES HERE``
+##### `YOUR TWO SENTENCES HERE`
 ##### `YOUR TWO SENTENCES HERE`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
@@ -29,8 +29,7 @@
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-
-
+  
 ##### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
@@ -59,3 +58,5 @@
 
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
+
+<img width="200" alt="qiita-square" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg">
