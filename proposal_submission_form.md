@@ -1,8 +1,8 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number:
+#### Team Number: `YOUR TEAM NUMBER HERE`
 
-#### Team Name:
+#### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
 
