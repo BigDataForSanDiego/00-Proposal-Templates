@@ -60,4 +60,4 @@
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
 
 <img height="20%" width="20%" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/hdma2.png">
-<img width="200" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/logo.png">
+<img height="50" width="50" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/logo.png">
