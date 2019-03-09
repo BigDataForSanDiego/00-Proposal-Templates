@@ -57,5 +57,6 @@
 - [ ] Your question:
 
 
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
-<img height="15%" width="15%" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/hdma2.png"> <img style="float: right;" height="100" width="100" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/logo.png">
+![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")  
+
+<img height="15%" width="15%" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/hdma2.png"> 
