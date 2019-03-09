@@ -2,12 +2,12 @@
 
 #### Team Number: `YOUR TEAM NUMBER HERE`  
 
-#### Team Name: `YOUR TEAM NAME HERE`  
-
+#### Team Name: `YOUR TEAM NAME HERE`    
+  
 #### Your team’s hackathon idea in TWO sentences:
 ##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`
-
+##### `YOUR TWO SENTENCES HERE`  
+  
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
 - ##### `YOUR DATASETS  HERE`
