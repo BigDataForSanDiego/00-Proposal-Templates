@@ -28,7 +28,7 @@
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
   
-##### A question your team is answering (check a box OR provide a question your team created)
+#### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
 - [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
