@@ -15,13 +15,13 @@ Team Coordinator email for Github account:
 A question your team is answering (check a box OR provide a question your group created)\\
 
 Smart City\
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?\ 
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?\
+- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion? 
+- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question: 
  
 Smart Environment\
-- [ ] How can San Diegans have access to better air quality indoors and outdoors?\
-- [ ] How can we clean San Diego beaches effectively?\
+- [ ] How can San Diegans have access to better air quality indoors and outdoors?
+- [ ] How can we clean San Diego beaches effectively?
 - [ ] Your question: 
  
 Smart Education\
