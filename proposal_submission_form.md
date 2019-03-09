@@ -15,7 +15,7 @@
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-| -- | :---                |        :---:         |            :---:            |        :---:         |                  :---:                    |
+| -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
 | 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
