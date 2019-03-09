@@ -54,4 +54,4 @@ A question your team is answering (check a box OR provide a question your group 
 - [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
 - [ ] Your question:
 
-![bigdatahackathon2019](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
+![bigdatahackathon2019](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg {: height="80%" width="80%"} "Big Data Hackathon for San Diego 2019")
