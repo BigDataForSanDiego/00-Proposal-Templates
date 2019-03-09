@@ -4,7 +4,7 @@ Team Number:
 
 Team Name:
 
-Your team’s hackathon idea in TWO sentences:
+# Your team’s hackathon idea in TWO sentences:
 
 
 Dataset(s) your team might use for the project (Provide name and URL):
@@ -15,16 +15,16 @@ Team Coordinator email for Github account:
 
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :---                |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 02 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 03 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 04 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 05 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 06 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 07 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 08 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 09 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
-| 10 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 
 
 A question your team is answering (check a box OR provide a question your group created)
