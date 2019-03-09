@@ -54,4 +54,4 @@ A question your team is answering (check a box OR provide a question your group 
 - [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
 - [ ] Your question:
 
-![python](https://image.flaticon.com/icons/svg/2/2181.svg "Python Language logotype free icon")
+![bigdatahackathon2019](00-Proposal-Templates/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")
