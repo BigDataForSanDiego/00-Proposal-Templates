@@ -5,7 +5,7 @@
 #### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
+##### ``YOUR TWO SENTENCES HERE``
 ##### `YOUR TWO SENTENCES HERE`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
@@ -31,8 +31,7 @@
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 
 
-
-###### A question your team is answering (check a box OR provide a question your group created)
+##### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
 - [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
