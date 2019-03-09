@@ -1,4 +1,4 @@
-<img src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg" height="80%" width="100%">
+<img src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg" height="50%" width="100%">
 
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
