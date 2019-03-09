@@ -1,19 +1,19 @@
-# 2019 BIG DATA HACKATHON PROPOSAL FORM
+### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-## Team Number:
+#### Team Number:
 
-## Team Name:
+#### Team Name:
 
-## Your team’s hackathon idea in TWO sentences:
+#### Your team’s hackathon idea in TWO sentences:
 
 
-## Dataset(s) your team might use for the project (Provide name and URL):
+#### Dataset(s) your team might use for the project (Provide name and URL):
 
-## Team Coordinator GitHub Username:
+#### Team Coordinator GitHub Username:
 
-## Team Coordinator email for Github account:
+#### Team Coordinator email for Github account:
 
-## Team Members
+#### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :---                |        :---:         |            :---:            |        :---:         |                  :---:                    |
 | 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
