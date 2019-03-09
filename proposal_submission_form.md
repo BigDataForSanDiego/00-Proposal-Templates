@@ -10,23 +10,18 @@ Team Coordinator GitHub Username:
 Team Coordinator email for Github account:
 
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-| -- | :---                |        :---:         |            :---:            |        :---:         |                 :---:                     |
-| 01 |                     |         [x]          |             [x]             |         [x]          |                  [x]                      |
-| 02 |                     |         [x]          |             [x]             |         [x]          |                  [x]                      |
+| -- | :---                |        :---:         |            :---:            |        :---:         |                  :---:                    |
+| 01 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 02 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 03 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 04 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 05 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 06 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 07 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 08 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 09 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
+| 10 |                     |         [x]          |             [x]             |         [x]          |                   [x]                     |
 
-
-
-| num | Name | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-
-
-Team Members
-num | Name | Active SDSU student? | Female active SDSU student | Active SDSU veteran | 14th grade (college 2nd year) or younger
---- | ---- | -------------------- | -------------------------- | ------------------- | ----------------------------------------
-000 | aa | [x] | [x] | [x] | [x]
 
 A question your team is answering (check a box OR provide a question your group created)
 
