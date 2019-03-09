@@ -9,8 +9,8 @@
 #### `YOUR TWO SENTENCES HERE`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
-#### `YOUR DATASETS HERE`
-#### `YOUR DATASETS  HERE`
+#### - `YOUR DATASETS HERE`
+#### - `YOUR DATASETS  HERE`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
