@@ -5,12 +5,12 @@
 #### Team Name: `YOUR TEAM NAME HERE`
 
 #### Your team’s hackathon idea in TWO sentences:
-#### `YOUR TWO SENTENCES HERE`
-#### `YOUR TWO SENTENCES HERE`
+##### `YOUR TWO SENTENCES HERE`
+##### `YOUR TWO SENTENCES HERE`
 
 #### Dataset(s) your team might use for the project (Provide name and URL):
-#### - `YOUR DATASETS HERE`
-#### - `YOUR DATASETS  HERE`
+##### - `YOUR DATASETS HERE`
+##### - `YOUR DATASETS  HERE`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
