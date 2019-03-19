@@ -7,7 +7,7 @@
 | 03 |  10:45-10:50  |  112  |  What the Health          |
 | 04 |  10:55-11:00  |  113  |  Blue                     |
 | 05 |  11:05-11:10  |  201  |  LightSmart               |
-| 06 |  11:15-11:20  |  206  |  ET's NY Analytics Geeks  |
+| 06 |  11:15-11:20  |  206  |  ET's NU Analytics Geeks  |
 | 07 |  11:25-11:30  |  207  |  Team Rocket              |
 | 08 |  11:35-10:40  |  220  |  Nerd Herd                |
 | 00 |  11:45-11:50  |       |                           |
